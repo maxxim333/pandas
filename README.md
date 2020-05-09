@@ -2,6 +2,7 @@
 This is an exercise I made as a preparation for an interview for a position in a financial data. The company's main specific requirement was knowledge of pandas module, so I made as much things in pandas a possible.
 
 - Data
+
 It is a CSV of investments in startups from keggle (https://www.kaggle.com/justinas/startup-investments) but it was slightly adapted, thus I provide the adapted CSV here. Each row is a startup with columns being data about them such as the city where it is located, date of funding, different financial characteristics (how many venture capital was injected, how many funding rounds was there), status (is it still operating or not), etc... Due to computational limitations, only a subset of data was used (15000 rows, about 38% of all rows)
 
 - Goal
