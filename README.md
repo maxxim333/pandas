@@ -1,5 +1,5 @@
 # pandas
-This is an exercise I made as a preparation for an interview for a position in a financial data. The company's main specific requirement was knowledge of pandas module, so I made as much things in pandas a possible.
+#This is an exercise I made as a preparation for an interview for a position in a financial data. The company's main specific requirement was knowledge of pandas module, so I made as much things in pandas a possible.
 
 - Data
 
@@ -31,4 +31,4 @@ After tuning the parameters of the predictor, the final mean error was decreased
 
 - Summary
 
-Someone who uses this predictor, can expect prediction with accuracy of -+10%. Eg: you want to create a startup, you introduce parameters of your startup and model outputs you can expect a funding of 1000000USD. It means you can confidently believe that you will get funding of between 900000USD and 1100000USD. How confident can you be in this number can be also acessed by the standard deviation of errors, also given by the program. Whether the model underestimates funding more often than overestimates or vice-versa can be acessed by normal distribution curve of errors also given by the programms. All of that is of course approximations. The program can be improved further. I know how. Hire me and I'll do it lol
+Someone who uses this predictor, can expect prediction with accuracy of -+10%. Eg: you want to create a startup, you introduce parameters of your startup and model outputs you can expect a funding of 1000000USD. It means you can confidently believe that you will get funding of between 900000USD and 1100000USD. How confident can you be in this number can be also acessed by the standard deviation of errors, also given by the program. Whether the model underestimates funding more often than overestimates or vice-versa can be acessed by normal distribution curve of errors also given by the programms. All of that is of course approximations and will be improved if the whole dataset will be used instead of subset that I used. The program can be improved further. I know how. Hire me and I'll do it lol
